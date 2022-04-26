@@ -1,0 +1,5 @@
+flask
+gunicorn
+beautifulsoup4
+line-bot-sdk
+flask_caching
